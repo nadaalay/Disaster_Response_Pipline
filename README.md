@@ -57,8 +57,8 @@ As you can see from the following screeshot, *"Please help me, I am sick"* messa
  ![app screenshot](images/Web app screenshot2.JPG)
  
  The web app also contains some visualizations that describe the data. 
- ![visualization1](images/Messages Categories Plot.JPG)
- ![visualization2](images/Messeges Genres Plot.JPG)
+ ![visualization1](images/MessagesCategoriesPlot.JPG)
+ ![visualization2](images/MessegesGenresPlot.JPG)
  
 ## Files Descriptions <a name="files"></a>
 
