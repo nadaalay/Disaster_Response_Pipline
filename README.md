@@ -1,6 +1,6 @@
 ## Disaster Response Pipelines
 
-![screenshot](Disaster_Response_Pipline/images/Messages Categories Plot.png)
+![screenshot](Disaster_Response_Pipline/images/MessagesCategoriesPlot.png)
 
 ### Table of Contents
 
@@ -13,14 +13,16 @@
 ## Installation <a name="installation"></a>
 
 All libraries are available in Anaconda distribution of Python. The used libraries are:
-	* pandas
-	* numby
-	* sklearn
-	* nltk
-	* sqlalchemy
-	* pickle
-	* Flask
-	* plotly
+
+- pandas
+- numby
+- sklearn
+- nltk
+- sqlalchemy
+- pickle
+- Flask
+- plotly
+
 The code should run using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
