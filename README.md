@@ -1,6 +1,6 @@
 ## Disaster Response Pipelines
 
-![screenshot](images\Web app screenshot1.JPG)
+![screenshot](Disaster_Response_Pipline/images/Messages Categories Plot.png)
 
 ### Table of Contents
 
