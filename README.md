@@ -1,6 +1,6 @@
 ## Disaster Response Pipelines
 
-![screenshot](Disaster_Response_Pipline/images/MessagesCategoriesPlot.png)
+![screenshot](images/Web_app_screenshot1.png)
 
 ### Table of Contents
 
@@ -54,11 +54,12 @@ The project has three componants which are:
 3. **Flask Web App:** the web app enables the user to enter a disaster message, and then view the categories of the message. 
 As you can see from the following screeshot, *"Please help me, I am sick"* message is written in the message input and the app classifies the message into categories (related,request, aid related).
  
- ![app screenshot](images/Web app screenshot2.JPG)
+ ![app screenshot](images/Web_app_screenshot2.JPG)
  
  The web app also contains some visualizations that describe the data. 
- ![visualization1](images/MessagesCategoriesPlot.JPG)
- ![visualization2](images/MessegesGenresPlot.JPG)
+ ![visualization1](images/MessagesCategoriesPlot.jpg)
+ 
+ ![visualization2](images/MessegesGenresPlot.jpg)
  
 ## Files Descriptions <a name="files"></a>
 
