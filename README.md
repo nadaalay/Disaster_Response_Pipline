@@ -1,26 +1,26 @@
 ## Disaster Response Pipelines
 
-![screenshot](images/Web app screenshot1.JPG)
+![screenshot](images\Web app screenshot1.JPG)
 
 ### Table of Contents
 
 1. [Installation](#installation)
 2. [Project Motivation](#motivation)
-3. [Project Descriptions] (#descriptions)
+3. [Project Descriptions](#descriptions)
 4. [Files Descriptions](#files)
 5. [Instructions](#instructions)
 
 ## Installation <a name="installation"></a>
 
 All libraries are available in Anaconda distribution of Python. The used libraries are:
-	- pandas
-	- numby
-	- sklearn
-	- nltk
-	- sqlalchemy
-	- pickle
-	- Flask
-	- plotly
+	* pandas
+	* numby
+	* sklearn
+	* nltk
+	* sqlalchemy
+	* pickle
+	* Flask
+	* plotly
 The code should run using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
@@ -33,17 +33,14 @@ Through a web app, the user can input a new message and get classification resul
 ## Project Descriptions<a name = "descriptions"></a>
 The project has three componants which are:
 
-1. ETL Pipeline
-
-`process_data.py` file contain the script to create ETL pipline which:
+1. **ETL Pipeline:** `process_data.py` file contain the script to create ETL pipline which:
 
 - Loads the `messages` and `categories` datasets
 - Merges the two datasets
 - Cleans the data
 - Stores it in a SQLite database
 
-2. ML Pipeline
-`train_classifier.py` file contain the script to create ML pipline which:
+2. **ML Pipeline:** `train_classifier.py` file contain the script to create ML pipline which:
 
 - Loads data from the SQLite database
 - Splits the dataset into training and test sets
@@ -52,8 +49,7 @@ The project has three componants which are:
 - Outputs results on the test set
 - Exports the final model as a pickle file
 
-3. Flask Web App
-The web app enables the user to enter a disaster message, and then view the categories of the message. 
+3. **Flask Web App:** the web app enables the user to enter a disaster message, and then view the categories of the message. 
 As you can see from the following screeshot, *"Please help me, I am sick"* message is written in the message input and the app classifies the message into categories (related,request, aid related).
  
  ![app screenshot](images/Web app screenshot2.JPG)
