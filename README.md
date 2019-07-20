@@ -1,6 +1,6 @@
 ## Disaster Response Pipelines
 
-![screenshot](images/Web_app_screenshot1.png)
+![screenshot](images/Web_app_screenshot1.JPG)
 
 ### Table of Contents
 
@@ -57,6 +57,7 @@ As you can see from the following screeshot, *"Please help me, I am sick"* messa
  ![app screenshot](images/Web_app_screenshot2.JPG)
  
  The web app also contains some visualizations that describe the data. 
+ 
  ![visualization1](images/MessagesCategoriesPlot.jpg)
  
  ![visualization2](images/MessegesGenresPlot.jpg)
